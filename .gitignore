@@ -1,0 +1,17 @@
+# Obsidian workspace state (local per-device, not shared)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian trash
+.trash/
+
+# Plugins that store credentials or local state
+.obsidian/plugins/obsidian-git/data.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
