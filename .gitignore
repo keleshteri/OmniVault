@@ -9,6 +9,12 @@
 # Plugins that store credentials or local state
 .obsidian/plugins/obsidian-git/data.json
 
+# PageIndex RAG — runtime node_modules (large, auto-copied by deploy script)
+.obsidian/plugins/pageindex-rag/node_modules/
+
+# PageIndex RAG — generated index files (large, regeneratable from source docs)
+.pageindex/
+
 # macOS
 .DS_Store
 
